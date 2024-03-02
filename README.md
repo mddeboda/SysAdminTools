@@ -13,6 +13,7 @@ Welcome to **UltimateSysAdminToolkit** – your comprehensive collection of esse
   - [Scripting](#scripting)
   - [Security Tools](#security-tools)
   - [Backup and Recovery](#backup-and-recovery)
+  - [Package managers](#package-manager)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 - [Contact](#contact)
